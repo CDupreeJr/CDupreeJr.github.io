@@ -40,11 +40,9 @@
         createPlatform(270, 440, 0.30);
         createPlatform(270, 600, 0.30);
         createPlatform(600,520,.30);
-        createPlatform(30, 400, .30);
+        createPlatform(30, 400, .30)
         createPlatform(600, 380, 0.30);
         createPlatform(270, 280, 0.30);
-        createPlatform(game.world.width - 32, 0, 3, 2);
-
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
     }
